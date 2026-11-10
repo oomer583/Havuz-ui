@@ -1,0 +1,6 @@
+{
+  "name": "havuz - Güvenli ve Birleşik Bulut Depolama",
+  "description": "Ücretsiz Google Drive hesaplarınızı tek bir büyük, şifreli ve güvenli depoda birleştiren modern web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
